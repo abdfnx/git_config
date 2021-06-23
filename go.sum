@@ -43,8 +43,9 @@ github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kB
 github.com/bketelsen/crypt v0.0.3-0.20200106085610-5cbc8cc4026c/go.mod h1:MKsuJmJgSg28kpZDP6UIiPt0e0Oz0kqKNGyRaWEPv84=
 github.com/briandowns/spinner v1.11.1/go.mod h1:QOuQk7x+EaDASo80FEXwlwiA+j/PPIcX3FScO+3/ZPQ=
 github.com/briandowns/spinner v1.12.0/go.mod h1:QOuQk7x+EaDASo80FEXwlwiA+j/PPIcX3FScO+3/ZPQ=
-github.com/briandowns/spinner v1.13.0 h1:q/Y9LtpwtvL0CRzXrAMj0keVXqNhBYUFg6tBOUiY8ek=
 github.com/briandowns/spinner v1.13.0/go.mod h1:QOuQk7x+EaDASo80FEXwlwiA+j/PPIcX3FScO+3/ZPQ=
+github.com/briandowns/spinner v1.16.0 h1:DFmp6hEaIx2QXXuqSJmtfSBSAjRmpGiKG6ip2Wm/yOs=
+github.com/briandowns/spinner v1.16.0/go.mod h1:QOuQk7x+EaDASo80FEXwlwiA+j/PPIcX3FScO+3/ZPQ=
 github.com/cespare/xxhash v1.1.0/go.mod h1:XrSqR1VqqWfGrhpAt58auRo0WTKS1nRRg3ghfAqPWnc=
 github.com/charmbracelet/glamour v0.2.1-0.20200724174618-1246d13c1684/go.mod h1:UA27Kwj3QHialP74iU6C+Gpc8Y7IOAKupeKMLLBURWM=
 github.com/charmbracelet/glamour v0.3.0/go.mod h1:TzF0koPZhqq0YVBNL100cPHznAAjVj7fksX2RInwjGw=
@@ -143,8 +144,9 @@ github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANyt
 github.com/itchyny/astgen-go v0.0.0-20210113000433-0da0671862a3/go.mod h1:296z3W7Xsrp2mlIY88ruDKscuvrkL6zXCNRtaYVshzw=
 github.com/itchyny/go-flags v1.5.0/go.mod h1:lenkYuCobuxLBAd/HGFE4LRoW8D3B6iXRQfWYJ+MNbA=
 github.com/itchyny/gojq v0.12.1/go.mod h1:Y5Lz0qoT54ii+ucY/K3yNDy19qzxZvWNBMBpKUDQR/4=
-github.com/itchyny/gojq v0.12.3 h1:s7jTCyOk/dy5bnDIScj24YX4Cr1yhEO2iW/bQT4Pm2s=
 github.com/itchyny/gojq v0.12.3/go.mod h1:mi4PdXSlFllHyByM68JKUrbiArtEdEnNEmjbwxcQKAg=
+github.com/itchyny/gojq v0.12.4 h1:8zgOZWMejEWCLjbF/1mWY7hY7QEARm7dtuhC6Bp4R8o=
+github.com/itchyny/gojq v0.12.4/go.mod h1:EQUSKgW/YaOxmXpAwGiowFDO4i2Rmtk5+9dFyeiymAg=
 github.com/itchyny/timefmt-go v0.1.1/go.mod h1:0osSSCQSASBJMsIZnhAaF1C2fCBTJZXrnj37mG8/c+A=
 github.com/itchyny/timefmt-go v0.1.2/go.mod h1:0osSSCQSASBJMsIZnhAaF1C2fCBTJZXrnj37mG8/c+A=
 github.com/itchyny/timefmt-go v0.1.3 h1:7M3LGVDsqcd0VZH2U+x393obrzZisp7C0uEe921iRkU=
@@ -244,8 +246,8 @@ github.com/secman-team/gh-api v0.2.45/go.mod h1:4On/2LlTPQ2SxGqNmhW6WVE4nSZoHqUB
 github.com/secman-team/gh-api v0.2.53/go.mod h1:nZdB1O8B471td8+0kLkRR0hdM8nGEvBaot6BTypIEnw=
 github.com/secman-team/gh-api v0.2.56/go.mod h1:VvNly54092n0+Kgv9uorvbL5LOPnArndl5ff4LUwWc8=
 github.com/secman-team/gh-api v0.2.57/go.mod h1:T+Zft/xibkGTUoag+zM2oC4kj4JdVX1utMfuvBe16Oo=
-github.com/secman-team/gh-api v0.2.571 h1:OfD47WA1CKuEYxtFcoPEitXg4zR/k/rSk6ZKUQWl6e8=
-github.com/secman-team/gh-api v0.2.571/go.mod h1:LLjNGt6pdLoLoBy+AneCCElzSwJnbAHeEu0HHOsFbQo=
+github.com/secman-team/gh-api v0.3.0 h1:qIFUsnPUArsmgAHclgwOmHLoIvFStttJTjSoaRfA7vg=
+github.com/secman-team/gh-api v0.3.0/go.mod h1:ZIXcQ+3YQnmHfEW+1l5HA5shgnW3yY3VZi95NemVlvM=
 github.com/secman-team/secman v0.0.0-20210507183205-8a23a96e5322/go.mod h1:elGxrzaDDHvJNogVJp2LodA9J7Rx6WdQowdG46fSSoU=
 github.com/secman-team/secman v0.0.0-20210530191441-f311d407592f/go.mod h1:NZnkI5VEDKGgLqecB2RSsfKAhVzUXkJ45ZtySOsGtmI=
 github.com/secman-team/shell v0.3.1/go.mod h1:+kAfttTSmyjzVbKIksunNkDxJONomZp52cwY/PgCHHs=
@@ -376,8 +378,9 @@ golang.org/x/sys v0.0.0-20210301091718-77cc2087c03b/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20210319071255-635bc2c9138d/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20210330210617-4fbd30eecc44/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20210423082822-04245dca01da/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
-golang.org/x/sys v0.0.0-20210521203332-0cec03c779c1 h1:lCnv+lfrU9FRPGf8NeRuWAAPjNnema5WtBinMgs1fD8=
 golang.org/x/sys v0.0.0-20210521203332-0cec03c779c1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/sys v0.0.0-20210601080250-7ecdf8ef093b h1:qh4f65QIVFjq9eBURLEYWqaEXmOyqdUyiBSgaXWccWk=
+golang.org/x/sys v0.0.0-20210601080250-7ecdf8ef093b/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/term v0.0.0-20201117132131-f5c789dd3221/go.mod h1:Nr5EML6q2oocZ2LXRh80K7BxOlk5/8JxuGnuhpl+muw=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
 golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
