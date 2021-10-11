@@ -1,4 +1,4 @@
-# Git Configs 📦
+### Git Configs 📦
 
 ---
 
