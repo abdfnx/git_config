@@ -1,5 +1,5 @@
-# Git Config 📦
+# Git Configs 📦
 
-> in this time, this package works with [**scmn-dev/secman**](https://github.com/scmn-dev/secman) & [**scmn-dev/gh-api**](https://github.com/scmn-dev/gh-api)
+---
 
-git config in golang
+> Git Configs of secman was moved moved to the main repo at [**scmn-dev/secman/tools/config**](https://github.com/scmn-dev/secman/tree/main/tools/config)
